@@ -41,6 +41,11 @@ This repository contains the code and documentation for building a predictive mo
 6. **Model Evaluation**: Check output for performance metrics and diagnostic plots.
 7. **Save Model**: Export the model for future use.
 
+## Output:
+
+![](https://github.com/SHARANADHITHYAS/Customers-Based-on-Usage-Patten/blob/main/Output-Screenshot.png)
+
+
 ## Example SPSS Syntax for Linear Regression
 
 ```spss
@@ -73,4 +78,5 @@ REGRESSION
 * Evaluate model.
 EXAMINE VARIABLES=price predicted_price
   /PLOT BOXPLOT STEMLEAF NPPLOT.
+
 
